@@ -1,0 +1,98 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.front img {
+    margin-left: 95px;
+}
+
+.front h2,h4 {
+    text-align: center;
+}
+
+.back p {
+    text-align: center;
+}
+
+
+button a {
+    text-decoration: none;
+}
+
+.card {
+    transition: all 0.3s;
+}
+
+.card:hover {
+    transform: scale(1.05);
+    margin-top: 15px;
+}
+
+
+.top-bar .text-left a {
+    color: black;
+    text-decoration: none;
+    padding-right: 12px;
+}
+
+.descr span {
+    font-size: 16px;
+}
+
+.content {
+   
+    width: 100%;
+}
+
+
+.offcanvas-body .list-unstyled li a {
+    text-decoration: none;
+    color: black;
+}
+/* #side_nav {
+    background-color: #000;
+    min-width: 250px;
+    max-width: 250px;
+   
+}
+
+.content {
+   
+    width: 100%;
+}
+
+hr.h-color {
+    background-color: #eee;
+}
+
+.sidebar li.active {
+    background-color: #eee;
+    border-radius: 8px;
+}
+
+.sidebar li.active a, .sidebar li.active a:hover {
+    color: #000;
+}
+
+.sidebar li a {
+    color: #fff;
+}
+
+.second-col {
+    flex-grow: 1;
+} */
+
+
+/* 
+@media (orientation: portrait) and (max-width: 500px) {
+    .main-container {
+        flex-wrap: wrap;
+        flex-direction: column;
+    }
+
+    #side_nav {
+        width: 100%;
+    }
+    
+} */
